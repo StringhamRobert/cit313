@@ -1,0 +1,16 @@
+* { box-sizing: border-box;} 
+.activity1{
+    font-size:20px;
+    background-color: red;
+}
+.activity2{
+    font-size: 15px;
+    background-color: blue;
+}
+.activity3{
+    font-size: 20px;
+    background-color: green;
+}
+div:hover{
+    font-weight: bold;
+}

@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+  margin:0;
+}
+html{
+  
+  background: url("../img/shadowlands.jpg") no-repeat center center;
+  
+
+}
+
+a:hover{
+    color:blue;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    align-content: center;
+    color:black;
+}
+p{
+    font-size: 40px;
+    text-align: center;
+}
+.box {
+  width: 40%;
+  height: 200px;
+  background: orange;
+  border-radius: 2px;
+  padding: 10px;
+  color: black;
+  text-align: right;
+}
+
+.a{
+    margin: 70vh 0 0 auto;
+}
+  
+.b{
+    margin: 40vh 0 0 0;
+    
+}
+
+ 
+
