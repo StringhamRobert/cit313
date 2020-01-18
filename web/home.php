@@ -17,6 +17,7 @@
 
 </header>
 <main>
+    
     <div class="box a" data-aos="zoom-in-left">
         <p>I am a gamer.</p>
     </div>
@@ -24,6 +25,10 @@
         <p>I like summer time and to run in the hot air.</p>
     </div>                  
 </main>
+<footer>
+    <p><?php include("common/footer.php");
+    ?></p>
+</footer>
     <script src = "js/aos.js"></script>  
     </body>
 </html>
